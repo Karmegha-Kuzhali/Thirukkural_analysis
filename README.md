@@ -27,7 +27,7 @@ You get... this. A strange, chaotic, possibly insightful, maybe even pointless, 
 ## 📚 Text Source
 
 Only one of the **greatest** texts ever written. You’ll know it when you see it.  
-(Or check the `data/` folder, cheater.)
+(Or check the `Data/` folder, cheater.)
 
 ## ❓ Why
 
